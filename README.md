@@ -6,7 +6,8 @@ Lane segmentation is a crucial component for the proper functioning of a complet
 
 ## Data
 The model was trained on data collected by the IRV Lab at the University of Minnesota. This dataset consists of image data acquired by using a smart phone mounted on a windshield of a car. To simulate poor visibility of lane lines, the images are preprocessed to remove
-all the lane markers. Thus, the dataset for this project consists of images of two types: images with lanes removed and the ground truth segmentation map obtained using images with lanes preserved. A sample from the dataset is shown below:
+all the lane markers. Thus, the dataset for this project consists of images of two types: images with lanes removed and the ground truth segmentation map obtained using images with lanes preserved. A sample from the dataset is shown below: 
+
 ![Data](sample_output/dataset.png)
 
 ## Output
