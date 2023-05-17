@@ -11,6 +11,6 @@ all the lane markers. Thus, the dataset for this project consists of images of t
 ![Data](sample_output/dataset.png)
 
 ## Output
-Here is a sample output from the best performing model.  
+Here is a sample output from the best performing model. The generated mask is overlayed on the image.  
   
 <img src="sample_output/output.gif" width="1000" height="250"/>
