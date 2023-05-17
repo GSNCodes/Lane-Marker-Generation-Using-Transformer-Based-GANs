@@ -10,6 +10,20 @@ all the lane markers. Thus, the dataset for this project consists of images of t
 
 ![Data](sample_output/dataset.png)
 
+### Data Folder Set-Up
+```
+├── Data
+    ├── test_set
+    │   ├── images
+    │   ├── masks
+    │   ├── overlayed
+    │   └── viz_masks
+    └── train_set
+        ├── images
+        ├── masks
+        ├── overlayed
+        └── viz_masks
+```
 ## Output
 Here is a sample output from the best performing model. The generated mask is overlayed on the image.  
   
