@@ -1,6 +1,6 @@
 
-TRAIN_ROOT_DIR = '/home/ubuntu/Duluth/train_set'
-TEST_ROOT_DIR = '/home/ubuntu/Duluth/test_set'
+TRAIN_ROOT_DIR = '/home/ubuntu/Data/train_set'
+TEST_ROOT_DIR = '/home/ubuntu/Data/test_set'
 
 
 
